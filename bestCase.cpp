@@ -1,5 +1,4 @@
-#include <iostream>
-using namespace std;
+
 int main(){
     
     int a[6]={5,7,6,-1,2,0};
